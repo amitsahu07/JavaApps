@@ -38,6 +38,6 @@ public static void main(String[] args) throws Exception {
 			System.out.println("Exception: " + e);
 		} 
 		
-		System.out.println("Company List = " + company1 + ", " + company2 + ", " + company3 +" Date is: " ); 
+		System.out.println("Company List = " + company1 + ", " + company2 + ", " + company3 +" Date is: "+time); 
 	}
 }
