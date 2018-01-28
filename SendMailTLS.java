@@ -1,5 +1,8 @@
 package com.xo.mail;
-
+/**
+ * @author Amit Sahu
+ * 
+ */
 import java.util.Properties;
 
 import javax.mail.Message;
