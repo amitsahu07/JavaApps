@@ -1,5 +1,8 @@
 package com.xo.remote;
-
+/**
+ * @author Amit Sahu
+ * 
+ */
 import java.util.Vector;
 
 import com.jcraft.jsch.ChannelSftp;
