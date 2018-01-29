@@ -1,7 +1,7 @@
 package com.xo.remote;
 /**
  * @author Amit Sahu
- * 
+ * Dependencies: jcraftjsch.jar
  */
 import java.util.Vector;
 
