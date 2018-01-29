@@ -1,7 +1,7 @@
 package com.xo.mail;
 /**
  * @author Amit Sahu
- * 
+ * Dependencies: javaxmail.jar
  */
 import java.util.Properties;
 
